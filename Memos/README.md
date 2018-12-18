@@ -3,9 +3,9 @@
 ## Collaboration Memos
 These are memos and papers written by members of the CASPER collaboration, and those using CASPER hardware.
 
-1. [Polyphase ﬁlter bank quantization error analysis](https://casper.berkeley.edu/wiki/images/1/1c/Polyphasequant.pdf) September 2003 (J. Stemerdink)
+1. [Polyphase ﬁlter bank quantization error analysis](files/Polyphasequant.pdf) September 2003 (J. Stemerdink)
 1. [Plans for an 8-Station Dual-Polarization Correlator on the BEE2](http://casper.berkeley.edu/memos/2005-07_correlator.html) July 2005 (Aaron Parsons)
-1. [Temperature vs. sample time ADC tests](http://casper.berkeley.edu/memos/ADC_temp.html) April 2006 (Aaron Parsons, David MacMahon, Dan Werthimer)
+1. [Temperature vs. sample time ADC tests](files/ADC_temp.md) April 2006 (Aaron Parsons, David MacMahon, Dan Werthimer)
 1. [Correlator Development Plans (PDF)](http://casper.berkeley.edu/memos/2006-03_Correlator_Memo.pdf) April 2006 (Aaron Parsons)
 1. [DC offset in FFT Butterflies](http://casper.berkeley.edu/memos/DC_FFT.html) April 2006 (Aaron Parsons)
 1. [Characterization of ADC frequency responses](http://casper.berkeley.edu/memos/adcfreq/index.html) May 2006 (Christina de Jesus)
