@@ -64,7 +64,7 @@ due to imperfect termination.
 
 All of the following plots and data may be found in the Excel
 spreadsheet located at
-[adcimpedance.xls](adcimpedance.xls).
+[adcimpedance.xls](ADC_impedance_response_characteristics_files/adcimpedance.xls).
 
 First, the input impedance of ADC 0.2.13's I+ input was measured. (ADC
 0.2.12's measurement is used here because the network analyzer used for
