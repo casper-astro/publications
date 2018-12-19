@@ -120,8 +120,8 @@ The plot below shows the output of the same design when digital noise was integr
 ## Using the digital noise source
 
 The digital noise source and correlation control block are checked in to the CASPER library. The I/O details are available on the following links –
-[Gaussian_Random_Number_Gen](../../Theses/files/Gaussian_Random_Number_Gen.md)
-[Correlation_Control_Block](../../Theses/files/Correlation_Control_Block)
+[Gaussian_Random_Number_Gen](https://casper-toolflow.readthedocs.io/en/latest/src/blockdocs/Gaussian_Random_Number_Gen.html)
+[Correlation_Control_Block](https://casper-toolflow.readthedocs.io/en/latest/src/blockdocs/Correlation_Control_Block.html)
 
 Currently, it is not a parametrized block, which means that it does not allow for any extra configurations. It only allows the user to change the seed values. However, the seed values chosen for each of the 14 LFSRs must be mutually uncorrelated. Such values can be generated using certain random number generators available on the internet. If the values are not truly random, there are chances of having a deviation from the expected value of correlation at the output. 
 

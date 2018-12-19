@@ -23,7 +23,7 @@ Aaron Parsons. ["Low-Frequency Interferometry: Design, Calibration, and Analysis
 Ph.D. Thesis, Department of Astronomy, [University of California, Berkeley.](http://astro.berkeley.edu)<br>
 June 2009.  Advisor: Prof. Donald Backer.
 
-Peter McMahon. ["Adventures in Radio Astronomy Instrumentation and Signal Processing."](https://arxiv.org/abs/1109.0416) (covering [[ATA_"Fly's_Eye"_Pulse_Finder | Fly's Eye]], and spectrometer systems for [[Parspec | Parkes]], the [[BAPP | ATA]] and [[Nancay_CoDeDi_Pulsar_Machine | Nancay]])<br>
+Peter McMahon. ["Adventures in Radio Astronomy Instrumentation and Signal Processing."](https://arxiv.org/abs/1109.0416) (covering [Fly's Eye](../Projects/files/ATA_pulse_finder.md), and spectrometer systems for [Parkes](../Projects/files/parspec.md), the [ATA](../Projects/files/bapp.md) and [Nancay](../Projects/files/Nancay_codedi_pulsar_machine.md))<br>
 M.Sc. Thesis, Department of Electrical Engineering, [University of Cape Town.](http://www.ee.uct.ac.za)<br>
 July 2008. Supervisors: Prof. Michael Inggs, Dr. Dan Werthimer and Dr. Alan Langman.
 
