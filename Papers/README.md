@@ -3,6 +3,10 @@ A variety of papers describing the design of, and results from, CASPER instrumen
 
 ## Instrumentation
 
+Rodríguez, R. et al. [Digital compensation of the side-band-rejection ratio in a fully analog 2SB sub-millimeter receiver](https://arxiv.org/abs/1806.04053) July 2018
+
+Finger, R. et. al. [A FPGA-based Fast Converging Digital Adaptive Filter for Real-time RFI Mitigation on Ground Based Radio Telescopes](https://arxiv.org/abs/1805.06376) May 2018
+
 Hickish, J. et al., [A Decade of Developing Radio-Astronomy Instrumentation using CASPER Open-Source Technology](https://www.worldscientific.com/doi/abs/10.1142/S2251171716410014) Journal of Astronomical Instrumentation, Vol. 5, No. 4 (2017)
 
 Buch, K. et al., [Towards Real-Time Impulsive RFI Mitigation for Radio Telescopes](http://www.worldscientific.com/doi/abs/10.1142/S225117171641018X) Journal of Astronomical Instrumentation, Vol. 5, No. 4 (2017).
@@ -11,7 +15,11 @@ Buch, K, et al., [Real-time RFI excision for the GMRT wideband correlator](http:
 
 Homin Jiang,Kim Guzzino,et al. ["A low-cost 4-bit, 10 Giga-Samples per Second Analog-to-Digital Converter Printed Circuit Board Assembly for FPGA-based backends"](http://stacks.iop.org/1538-3873/128/i=969/a=115002) PASP 2016,September 19,Vol.128, No.969,pages 115002
 
+Alvear, A. et. al. [FPGA-based digital signal processing for the next generation radio astronomy instruments: ultra-pure sideband separation and polarization detection](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9914/1/FPGA-based-digital-signal-processing-for-the-next-generation-radio/10.1117/12.2233090.short?SSO=1) July 2016
+
 D. C. Price, [Spectrometers and Polyphase Filterbanks in Radio Astronomy](http://arxiv.org/abs/1607.03579), 2016. arXiv 1607.03579
+
+Finger, R. et. al. [Ultra-pure digital sideband separation at sub-millimeter wavelengths](https://arxiv.org/abs/1509.04920) October 2015
 
 Buch, K., Gupta, Y., Ajithkumar B., [Variable Correlation Digital Noise Source on FPGA — A Versatile Tool for Debugging Radio Telescope Backends](http://www.worldscientific.com/doi/pdf/10.1142/S225117171450007X) Journal of Astronomical Instrumentation, Vol. 3, No. 3 (2014) 1450007.
 
@@ -19,7 +27,9 @@ Jiang, H. et al.; [5 Giga Samples per Second Analog to Digital Printed Circuit B
 
 Zheng, H. et. al., [MITEoR: A Scalable Interferometer for Precision 21 cm Cosmology](http://arxiv.org/abs/1405.5527) May 2014
 
-R. Finger et. al. [A calibrated digital sideband separating spectrometer for radio astronomy applications](https://casper.berkeley.edu/wiki/images/7/77/DSSS_rfinger_uchile.pdf) March 14 2013
+Rodríguez R. et. al. [A Sideband-separating Receiver with a Calibrated Digital If-Hybrid Spectrometer for the Millimeter Band](https://iopscience.iop.org/article/10.1086/676307) April 2014
+
+Finger, R. et. al. [A calibrated digital sideband separating spectrometer for radio astronomy applications](https://casper.berkeley.edu/wiki/images/7/77/DSSS_rfinger_uchile.pdf) March 14 2013
 
 Jarnot, R et al. [Broad-Bandwidth FPGA-Based Digital Polyphase Spectrometer](https://casper.berkeley.edu/wiki/images/5/51/Ryan_jarnot_spectometer_paper_NPO48352.pdf)  August 2011
 
