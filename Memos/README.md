@@ -57,6 +57,7 @@ These are memos and papers written by members of the CASPER collaboration, and t
 1. [Spectrometers and Polyphase Filterbanks in Radio Astronomy](http://arxiv.org/abs/1607.03579) July 2016 (Danny C. Price), to be published in the WSPC Handbook of Astronomical Instrumentation.
 1. [Using SmartXplorer to achieve timing closure](files/SmartXplorer_memo.pdf) May 2017 (Michael D'Cruze).
 1. [SNAP 1U Enclosure](files/1U-Snap-Enclosure-Pollak.pdf) January 2020 (Alex Pollak).
+1. [Overlapped Polyphase Filter Bank](files/Smith_Polyphase_Explanation.pdf) September 2020 (Jenny Smith).
 
 
 ## External Memos & Papers
