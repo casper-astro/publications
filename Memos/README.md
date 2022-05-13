@@ -53,7 +53,7 @@ These are memos and papers written by members of the CASPER collaboration, and t
 1. [Performance optimization for Virtex 6 CASPER designs](files/roach2_timing.zip) May 2013 (Ryan Monroe)
 1. [FPGA linux device driver](files/Fpga_device_driver_memo.md) September 2013 (Shanly Rajan)
 1. [Making an SD Card on ROACH](files/MakingSDcardforROACH.pdf) December 2013 (Rick Raffanti)
-1. [SMA Wideband Utilization](files/sma-wideband-utilization.pdf) 2013 (Primiani, Weintroub, deWerd).
+1. [SMA Wideband Utilization](files/sma_wideband_utilization.pdf) 2013 (Primiani, Weintroub, deWerd).
 1. [Test report on 20 Gsps ADC Proof of Concept based on Hittite HMC5913](files/ADC1X26G_Test_Report_20141030.pdf) October 2014 (Rick Raffanti & Jonathan Weintroub)
 1. [Spectrometers and Polyphase Filterbanks in Radio Astronomy](http://arxiv.org/abs/1607.03579) July 2016 (Danny C. Price), to be published in the WSPC Handbook of Astronomical Instrumentation.
 1. [Using SmartXplorer to achieve timing closure](files/SmartXplorer_memo.pdf) May 2017 (Michael D'Cruze).
